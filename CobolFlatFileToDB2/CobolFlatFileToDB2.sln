@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobolFlatFileToDB2", "CobolFlatFileToDB2\CobolFlatFileToDB2.csproj", "{8568FE1E-C71B-4F4B-8757-A2864E2BAAA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobolFlatFileToDB2.Tests", "CobolFlatFileToDB2.Tests\CobolFlatFileToDB2.Tests.csproj", "{6B906260-8CCB-4A24-B416-6B98B5BA0BDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8568FE1E-C71B-4F4B-8757-A2864E2BAAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8568FE1E-C71B-4F4B-8757-A2864E2BAAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8568FE1E-C71B-4F4B-8757-A2864E2BAAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B906260-8CCB-4A24-B416-6B98B5BA0BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B906260-8CCB-4A24-B416-6B98B5BA0BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B906260-8CCB-4A24-B416-6B98B5BA0BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B906260-8CCB-4A24-B416-6B98B5BA0BDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
