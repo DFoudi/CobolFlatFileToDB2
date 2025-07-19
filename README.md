@@ -33,14 +33,6 @@ Ce mini-projet simule un scénario très fréquent en banque : la migration ou
 - Prénom : 10 caractères
 - Solde : 8 caractères
 
----
-
-## 🚀 Exemple d’exécution console
-
-![capture](capture.png)
-
----
-
 ## 📁 Architecture du projet
 
 CobolFlatFileToDB2/ # Projet principal (.NET Console)
@@ -86,12 +78,15 @@ CobolFlatFileToDB2.Tests/ # Projet de tests MSTest
 
 ---
 
-## 📝 Auteur
+## ✨ Auteur
 
-David Foudi
+Développé par **David Foudi**  
+[LinkedIn](https://www.linkedin.com/in/david-foudi/)  
 
 ---
 
-## Licence
+## 📝 Licence
 
-MIT
+Projet open-source sous licence MIT.
+
+---
